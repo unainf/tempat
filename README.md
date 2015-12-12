@@ -1,2 +1,2 @@
-# tempat
+# HOST
 host js/css file
